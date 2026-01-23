@@ -26,7 +26,7 @@ namespace QuanLyBanHang
         {
 
         }
-
+        //
         //Xu ly tai form
         private void BatTatChucNang(bool giaTri)
         {
