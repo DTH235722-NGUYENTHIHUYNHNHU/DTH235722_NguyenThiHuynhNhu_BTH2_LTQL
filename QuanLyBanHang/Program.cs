@@ -12,6 +12,8 @@ namespace QuanLyBanHang
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new frmLoaiSanPham());
+            Application.Run(new frmHangSanXuat());
+
         }
     }
 }
